@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="lineageos_system_label">crDroid Систем</string>
+    <string name="lineageos_system_label">ArbitrarilyTong Систем</string>
     <string name="permlab_modifyProfiles">мењање профила система</string>
     <string name="permdesc_modifyProfiles">Апликација може да мења подешавања системских профила.</string>
     <string name="permlab_useHardwareFramework">коришћење хардверског оквира</string>
@@ -64,7 +64,7 @@
     <string name="permdesc_manageRemotePrefs">Апликација може да управља подешавањима даљинског приступа.</string>
     <string name="build_date">Датум израде</string>
     <string name="lineage_api_level">Ниво API-ја crDroid-а</string>
-    <string name="lineage_updates">crDroid ажурирања</string>
+    <string name="lineage_updates">ArbitrarilyTong ажурирања</string>
     <string name="lineage_version">Верзија crDroid-а</string>
     <string name="lineage_vendor_security_patch">Ниво безбедносне закрпе добављача</string>
     <string name="unknown">Непознат</string>
